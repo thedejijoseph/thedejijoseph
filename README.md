@@ -1,18 +1,19 @@
 ### Hi there 👋
 
-**Deji Joseph**, a freelance web developer and transport manager here.
+**Deji Joseph**, a web software developer, interested in the finance and transport space.
 
-Forever curious, my repos largely contain experiments, simple scripts, quick web apps, and unfinished projects. Sadly, more involved projects I've worked on are not mine (freelance), so I can't show them.
+Forever curious, my repos largely contain experiments, simple scripts, quick web apps, and unfinished projects.
 
-My new mantra, though: do big things, _and complete them_.
+My mantra: do big things, _and complete them_.
 
 What I'm currently working on:
 
+- Project/Travel Info: a directory of information relevant to travel in Nigeria
+- Project/Pusher: a cli tool (running in the background) to automatically upload files to Google Drive
 - Project/Frosty: a private blog, built on a micro-service architechture (another experiment)
-- Project/Pusher: a cli controlled background script to automatically upload files to Google Drive
 - (in a bit) OpenSource/twist.moe: contributing to an opensource project and feeding my fascination with Anime :)
 
-I'll maintain a resume-like repo [here.](https://wrecodde.github.io) It should contain things like my skills and professional experience.
+More about me [here.](https://wrecodde.github.io)
 
 <hr>
 Cheers.
