@@ -2,34 +2,25 @@
 
 **Deji Joseph**, a web software developer, interested in the finance and transport space.
 
-Forever curious, my repos largely contain experiments, simple scripts, quick web apps, and unfinished projects.
+> Do big things, _complete them_, and trust the process.. 🚀
 
-My mantra: do big things, _and complete them_.
+Working as a freelance developer from my [couch](https://twitter.com/wrecodde), I spend my free time learning and experimenting with new stuff.
 
-What I'm currently working on:
+I write about some of them on Hashnode [@wrecodde](https://wrecodde.hashnode.dev).
 
-- Project/Travel Info: a directory of information relevant to travel in Nigeria
-- Project/Pusher: a cli tool (running in the background) to automatically upload files to Google Drive
-- Project/Frosty: a private blog, built on a micro-service architechture (another experiment)
-- (in a bit) OpenSource/twist.moe: contributing to an opensource project and feeding my fascination with Anime :)
+## Stuff on my github
 
-More about me [here.](https://wrecodde.github.io)
+| Identification | Description | Status |
+|:----------|:------------|:------------|
+| Project/Travel Info | a directory of information relavant to travel in Nigeria | on the drawing board |
+| Project/Pusher | automatically push files in specified directories to Google Drive | needs packaging |
+| Project/Frosty | a proposed experiment with micro-services, to build a blog | suspended for a bit |
+| [Project/Clipboard App](https://clipboard-app.netlify.app) | hold text content between devices | just completed |
+| OpenSource/twist.moe | contribute to open source and enjoy more anime | in a bit |
+
+More [here.](https://wrecodde.github.io)
 
 <hr>
 Cheers.
 
 Deji
-<!--
-**wrecodde/wrecodde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
