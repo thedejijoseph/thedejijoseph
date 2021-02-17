@@ -12,7 +12,7 @@ I write about some of them on Hashnode [@wrecodde](https://wrecodde.hashnode.dev
 
 | Identification | Description | Status |
 |:----------|:------------|:------------|
-| Project/Travel Info | a directory of information relavant to travel in Nigeria | on the drawing board |
+| Project/Travel Info | a directory of information relevant to travel in Nigeria | on the drawing board |
 | Project/Pusher | automatically push files in specified directories to Google Drive | needs packaging |
 | Project/Frosty | a proposed experiment with micro-services, to build a blog | suspended for a bit |
 | [Project/Clipboard App](https://clipboard-app.netlify.app) | hold text content between devices | just completed |
