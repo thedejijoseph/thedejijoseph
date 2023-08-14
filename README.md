@@ -1,25 +1,12 @@
-### Hi there 👋
+### Hii 👋
 
-**Deji Joseph**, a web software developer, interested in the finance and transport space.
+I'm Deji, a software engineer, data analyst and product manager. I've led teams and built products in health, logistics, and finance.
 
-> Do big things, _complete them_, and trust the process.. 🚀
+I love working on exciting projects that transforms lives and accelerates businesses. When I'm not building, I'm learning.
 
-Working as a freelance developer from my [couch](https://twitter.com/wrecodde), I spend my free time learning and experimenting with new stuff.
+I also write, sometimes. [Deji's Notes](https://dejisnotes.com).
 
-I write about some of them on Hashnode [@wrecodde](https://wrecodde.hashnode.dev).
-
-## Stuff on my github
-
-| Identification | Description | Status |
-|:----------|:------------|:------------|
-| [Project/Travel Info](https://travelinfo-staging.herokuapp.com) | a directory of information relevant to travel in Nigeria | still under construction |
-| Project/Pusher | automatically push files in specified directories to Google Drive | needs packaging |
-| Project/Frosty | a proposed experiment with micro-services, to build a blog | suspended for a bit |
-| [Project/Clipboard App](https://clipboard-app.netlify.app) | hold text content between devices | just completed |
-| OpenSource/twist.moe | contribute to open source and enjoy more anime | in a bit |
-
-More [here.](https://wrecodde.github.io)
-
+Talk to me: [deji@thedejijoseph.com](mailto:deji@thedejijoseph.com)
 <hr>
 Cheers.
 
