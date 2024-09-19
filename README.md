@@ -1,6 +1,6 @@
 ### Hii
 
-I'm Deji,software enginee and data analyst.
+I'm Deji, software enginee and data analyst.
 
 I write here: [Deji's Notes](https://dejisnotes.com).
 
